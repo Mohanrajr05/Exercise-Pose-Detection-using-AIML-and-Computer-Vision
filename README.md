@@ -1,6 +1,5 @@
 # Exercise Pose Detection & Analysis
 
-
 ![GitHub top language](https://img.shields.io/github/languages/top/Mohanrajr05/Exercise-Pose-Detection-using-AIML-and-Computer-Vision)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Mohanrajr05/Exercise-Pose-Detection-using-AIML-and-Computer-Vision)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Mohanrajr05/Exercise-Pose-Detection-using-AIML-and-Computer-Vision)
